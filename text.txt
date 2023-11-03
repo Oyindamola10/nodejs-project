@@ -1,0 +1,3 @@
+My name is Samiat
+I am developer 
+and i'm learning backend
